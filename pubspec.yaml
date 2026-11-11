@@ -18,12 +18,10 @@ dev_dependencies:
   flutter_lints: ^6.0.0
 
 flutter:
-  config:
-    enable-swift-package-manager: false
-
   uses-material-design: true
-  # assets:
-  #  - images/a_dot_burr.jpeg
+
+  assets:
+    - assets/g_buthak_via.jpg
   #  - images/a_dot_ham.jpeg
   # fonts:
   #   - family: Schyler
